@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9257c36b-d46c-4418-9e2e-d24e5e795b52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Classic_Logistic_Regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stable_L1_Soft_Margin_SVM.jl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stable_Logistic_Regression.jl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classic_Logistic_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classic_Logistic_Regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stable_L1_Soft_Margin_SVM.jl" beforeDir="false" afterPath="$PROJECT_DIR$/Stable_L1_Soft_Margin_SVM.jl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stable_Logistic_Regression.jl" beforeDir="false" afterPath="$PROJECT_DIR$/Stable_Logistic_Regression.jl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stable_SVM_and_Logistic_Regression_Final_Report.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

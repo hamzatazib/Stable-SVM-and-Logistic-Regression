@@ -1,3 +1,4 @@
+# Authors: Hamza Tazi Bouardi & Pierre-Henri Ramirez
 using JuMP, Gurobi, CSV, LinearAlgebra, DataFrames, Random, Distributions, Statistics
 gurobi_env = Gurobi.Env()
 
